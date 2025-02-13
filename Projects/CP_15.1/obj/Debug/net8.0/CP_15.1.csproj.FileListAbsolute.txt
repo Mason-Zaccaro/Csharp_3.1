@@ -1,0 +1,15 @@
+D:\Study\3_Course\1_Semester\Csharp_3.1\Projects\CP_15.1\bin\Debug\net8.0\CP_15.1.exe
+D:\Study\3_Course\1_Semester\Csharp_3.1\Projects\CP_15.1\bin\Debug\net8.0\CP_15.1.deps.json
+D:\Study\3_Course\1_Semester\Csharp_3.1\Projects\CP_15.1\bin\Debug\net8.0\CP_15.1.runtimeconfig.json
+D:\Study\3_Course\1_Semester\Csharp_3.1\Projects\CP_15.1\bin\Debug\net8.0\CP_15.1.dll
+D:\Study\3_Course\1_Semester\Csharp_3.1\Projects\CP_15.1\bin\Debug\net8.0\CP_15.1.pdb
+D:\Study\3_Course\1_Semester\Csharp_3.1\Projects\CP_15.1\obj\Debug\net8.0\CP_15.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\3_Course\1_Semester\Csharp_3.1\Projects\CP_15.1\obj\Debug\net8.0\CP_15.1.AssemblyInfoInputs.cache
+D:\Study\3_Course\1_Semester\Csharp_3.1\Projects\CP_15.1\obj\Debug\net8.0\CP_15.1.AssemblyInfo.cs
+D:\Study\3_Course\1_Semester\Csharp_3.1\Projects\CP_15.1\obj\Debug\net8.0\CP_15.1.csproj.CoreCompileInputs.cache
+D:\Study\3_Course\1_Semester\Csharp_3.1\Projects\CP_15.1\obj\Debug\net8.0\CP_15.1.sourcelink.json
+D:\Study\3_Course\1_Semester\Csharp_3.1\Projects\CP_15.1\obj\Debug\net8.0\CP_15.1.dll
+D:\Study\3_Course\1_Semester\Csharp_3.1\Projects\CP_15.1\obj\Debug\net8.0\refint\CP_15.1.dll
+D:\Study\3_Course\1_Semester\Csharp_3.1\Projects\CP_15.1\obj\Debug\net8.0\CP_15.1.pdb
+D:\Study\3_Course\1_Semester\Csharp_3.1\Projects\CP_15.1\obj\Debug\net8.0\CP_15.1.genruntimeconfig.cache
+D:\Study\3_Course\1_Semester\Csharp_3.1\Projects\CP_15.1\obj\Debug\net8.0\ref\CP_15.1.dll
