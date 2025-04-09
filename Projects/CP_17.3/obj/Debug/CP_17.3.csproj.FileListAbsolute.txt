@@ -1,0 +1,11 @@
+D:\Study\3_Course\1_Semester\Csharp_3.1\Projects\CP_17.3\bin\Debug\CP_17.3.exe.config
+D:\Study\3_Course\1_Semester\Csharp_3.1\Projects\CP_17.3\bin\Debug\CP_17.3.exe
+D:\Study\3_Course\1_Semester\Csharp_3.1\Projects\CP_17.3\bin\Debug\CP_17.3.pdb
+D:\Study\3_Course\1_Semester\Csharp_3.1\Projects\CP_17.3\bin\Debug\System.Drawing.Common.dll
+D:\Study\3_Course\1_Semester\Csharp_3.1\Projects\CP_17.3\bin\Debug\System.Drawing.Common.pdb
+D:\Study\3_Course\1_Semester\Csharp_3.1\Projects\CP_17.3\bin\Debug\System.Drawing.Common.xml
+D:\Study\3_Course\1_Semester\Csharp_3.1\Projects\CP_17.3\obj\Debug\CP_17.3.csproj.AssemblyReference.cache
+D:\Study\3_Course\1_Semester\Csharp_3.1\Projects\CP_17.3\obj\Debug\CP_17.3.csproj.CoreCompileInputs.cache
+D:\Study\3_Course\1_Semester\Csharp_3.1\Projects\CP_17.3\obj\Debug\CP_17.3.csproj.CopyComplete
+D:\Study\3_Course\1_Semester\Csharp_3.1\Projects\CP_17.3\obj\Debug\CP_17.3.exe
+D:\Study\3_Course\1_Semester\Csharp_3.1\Projects\CP_17.3\obj\Debug\CP_17.3.pdb
